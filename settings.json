@@ -6,7 +6,7 @@
     "type": "."
   },
   "server": {
-    "ip": "theGoatedsmpx.aternos.me",
+    "ip": "theGoatedsmpx.aternos.me:55467",
     "port": 55647,
     "version": "26.1.2",
     "try-creative": false
